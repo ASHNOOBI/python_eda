@@ -12,4 +12,4 @@ playstore_data.csv: The CSV file containing the raw data of apps from the Google
 
 playstore_eda.ipynb: A Jupyter Notebook that includes the Python code for performing the EDA on the Play Store data. It covers data cleaning, data exploration, visualization, and insights generation.
 
-README.md: This README file provides an overview of the project and instructions on how to use the code.
+README.md: This README file provides an overview of the project and instructions on how to use the code .
